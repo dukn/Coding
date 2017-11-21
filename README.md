@@ -14,8 +14,11 @@ I create this repository to implement data structures, algorithms, network, cryp
 - [x] Heap
 - [x] Hash table
 
-### Algorithms 
+### Algorithms
 Sorting
-- [ ]
+- [x] Bubble sort
+- [x] Heap sort
+- [x] Quick sort
+
 ---
 ##
